@@ -1,0 +1,13 @@
+*.zip
+*.tif
+*.tif.aux.xml
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.gpkg
+temp_*.png
+simulation_package/
+__pycache__/
+.DS_Store
